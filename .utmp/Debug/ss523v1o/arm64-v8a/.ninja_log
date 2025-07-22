@@ -1,0 +1,23 @@
+# ninja log v5
+51	3801	7748904123604204	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ae253e7b2a64c33b
+130	349	7748904089195609	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2983f43220ad55a4
+349	669	7748904092445421	C:/POC-ConnectedPedal/OpenCVForUnity/QuestArUcoMarkerTracking/QuestMarkerTracking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/ss523v1o/obj/arm64-v8a/libswappywrapper.so	bf29bdc27ea7dbc4
+115	3539	7748904121066280	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a7c87dffd64bf3b0
+34	3513	7748904120705937	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d11f830c8dbbc712
+65	3602	7748904121668713	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f986b441032ff8c8
+103	3532	7748904120960857	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	fd3ccd039ea96d75
+77	3540	7748904120900763	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6e68344552367d1b
+4	3615	7748904121785635	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fb98f13cfa35381a
+90	3715	7748904122769143	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4ae1c7f41d1683b4
+3802	3943	7748904125108737	C:/POC-ConnectedPedal/OpenCVForUnity/QuestArUcoMarkerTracking/QuestMarkerTracking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/ss523v1o/obj/arm64-v8a/libgame.so	6afeb5c4da44fe57
+124	741	7748934899867864	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2983f43220ad55a4
+742	1766	7748934910619775	C:/POC-ConnectedPedal/OpenCVForUnity/QuestArUcoMarkerTracking/QuestMarkerTracking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/ss523v1o/obj/arm64-v8a/libswappywrapper.so	bf29bdc27ea7dbc4
+103	4304	7748934933997946	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	fd3ccd039ea96d75
+79	4306	7748934933832768	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d11f830c8dbbc712
+119	4456	7748934934193463	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a7c87dffd64bf3b0
+97	4479	7748934934504220	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f986b441032ff8c8
+108	4516	7748934933792795	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6e68344552367d1b
+62	4533	7748934936340148	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ae253e7b2a64c33b
+113	4541	7748934935928878	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4ae1c7f41d1683b4
+4	4555	7748934937052435	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fb98f13cfa35381a
+4558	5051	7748934942752750	C:/POC-ConnectedPedal/OpenCVForUnity/QuestArUcoMarkerTracking/QuestMarkerTracking/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/ss523v1o/obj/arm64-v8a/libgame.so	6afeb5c4da44fe57

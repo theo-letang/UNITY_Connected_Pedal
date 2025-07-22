@@ -1,0 +1,1 @@
+C:\POC-ConnectedPedal\Unity_Connected_Pedal\Assets\OpenCVForUnity\QuestArUcoMarkerTracking\QuestMarkerTracking\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\5a4e2j63\obj\arm64-v8a

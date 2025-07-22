@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958823e2e0c86754ba0d0f3d535d6024, type: 3}
+  m_Name: PongController26368
+  m_EditorClassIdentifier: 
+  _gameVariables:
+  - {fileID: 11400000, guid: 15189739a9adbdc4a84466f21a5818e4, type: 2}
+  - {fileID: 11400000, guid: b849297a7a1481a48b7f48fc77922403, type: 2}
+  - {fileID: 11400000, guid: e982940e1e4aafa4097271333d0e22df, type: 2}
+  - {fileID: 11400000, guid: e384f7be9012b0745bdfeb5da0086299, type: 2}
+  _onPaired: {fileID: 0}
+  _onUnpaired: {fileID: 0}
+  _address: 26368
+  _toolType: PongController
+  _toolKind: T
+  _toolVersion: 1
+  _pairingMethod: 0
+  _restrainVersions: 0
+  _supportedVersions: 
